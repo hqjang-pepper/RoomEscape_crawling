@@ -1,0 +1,1460 @@
+2020-03-24 18:17:22.134515
+2020-03-24 18:30:23.358453	keyescape complete
+2020-03-24 18:34:41.830948	seoulescaperoom complete
+masterkey error
+2020-03-24 18:43:35.689607	nextedition complete
+2020-03-24 18:44:31.289743	solvergd complete
+2020-03-24 18:45:30.503149	hoteldecode complete
+2020-03-24 18:47:01.688823	codeK complete
+running time: 1779.5543076992035
+
+2020-03-24 19:13:30.891600
+2020-03-24 19:26:24.885350	keyescape complete
+2020-03-24 19:30:41.248054	seoulescaperoom complete
+2020-03-24 19:44:05.103128	masterkey complete
+2020-03-24 19:50:49.119810	nextedition complete
+2020-03-24 19:51:48.750798	solvergd complete
+2020-03-24 19:52:05.957343	hoteldecode complete
+2020-03-24 19:53:40.569536	codeK complete
+running time: 2409.677935361862
+
+2020-03-24 20:13:30.950701
+2020-03-24 20:26:22.352779	keyescape complete
+2020-03-24 20:30:24.971541	seoulescaperoom complete
+2020-03-24 20:43:43.468123	masterkey complete
+2020-03-24 20:50:24.686810	nextedition complete
+2020-03-24 20:51:24.099281	solvergd complete
+2020-03-24 20:51:53.592557	hoteldecode complete
+2020-03-24 20:53:29.033580	codeK complete
+running time: 2398.082879781723
+
+2020-03-24 21:13:30.890893
+2020-03-24 21:26:16.975892	keyescape complete
+2020-03-24 21:30:24.250084	seoulescaperoom complete
+2020-03-24 21:43:43.715488	masterkey complete
+2020-03-24 21:50:28.304796	nextedition complete
+2020-03-24 21:51:27.510111	solvergd complete
+2020-03-24 21:52:07.160839	hoteldecode complete
+2020-03-24 21:53:38.605083	codeK complete
+running time: 2407.714189529419
+
+2020-03-24 22:13:30.959106
+2020-03-24 22:26:17.781428	keyescape complete
+2020-03-24 22:30:25.023972	seoulescaperoom complete
+2020-03-24 22:43:42.352953	masterkey complete
+2020-03-24 22:50:20.769185	nextedition complete
+2020-03-24 22:51:16.061995	solvergd complete
+2020-03-24 22:51:40.374103	hoteldecode complete
+2020-03-24 22:53:10.729737	codeK complete
+running time: 2379.7706310749054
+
+2020-03-24 23:13:30.892394
+2020-03-24 23:26:16.008675	keyescape complete
+2020-03-24 23:30:30.696719	seoulescaperoom complete
+2020-03-24 23:43:44.358738	masterkey complete
+2020-03-24 23:50:35.129782	nextedition complete
+2020-03-24 23:51:35.561993	solvergd complete
+2020-03-24 23:52:10.573838	hoteldecode complete
+2020-03-24 23:53:43.523676	codeK complete
+running time: 2412.6312816143036
+
+2020-03-25 00:13:31.081694
+2020-03-25 00:26:51.299485	keyescape complete
+2020-03-25 00:30:55.217081	seoulescaperoom complete
+2020-03-25 00:43:58.664119	masterkey complete
+2020-03-25 00:50:42.174770	nextedition complete
+2020-03-25 00:51:47.359334	solvergd complete
+2020-03-25 00:52:08.350482	hoteldecode complete
+2020-03-25 00:53:35.615806	codeK complete
+running time: 2404.5341114997864
+
+2020-03-25 01:13:30.892513
+2020-03-25 01:26:50.457921	keyescape complete
+2020-03-25 01:31:17.619193	seoulescaperoom complete
+2020-03-25 01:44:40.745900	masterkey complete
+2020-03-25 01:51:09.966272	nextedition complete
+2020-03-25 01:52:31.055720	solvergd complete
+2020-03-25 01:52:46.981729	hoteldecode complete
+2020-03-25 01:54:16.111765	codeK complete
+running time: 2445.2192521095276
+
+2020-03-25 02:13:30.890504
+2020-03-25 02:26:48.210669	keyescape complete
+2020-03-25 02:30:52.083672	seoulescaperoom complete
+2020-03-25 02:43:55.950207	masterkey complete
+2020-03-25 02:50:19.260512	nextedition complete
+2020-03-25 02:51:19.021242	solvergd complete
+2020-03-25 02:51:34.891632	hoteldecode complete
+2020-03-25 02:52:58.705771	codeK complete
+running time: 2367.8152668476105
+
+2020-03-25 03:13:30.893249
+2020-03-25 03:26:47.892862	keyescape complete
+2020-03-25 03:30:58.560582	seoulescaperoom complete
+2020-03-25 03:44:19.053759	masterkey complete
+2020-03-25 03:50:43.621237	nextedition complete
+2020-03-25 03:51:42.693359	solvergd complete
+2020-03-25 03:51:58.766606	hoteldecode complete
+2020-03-25 03:53:25.144222	codeK complete
+running time: 2394.2509734630585
+
+2020-03-25 04:13:30.886768
+2020-03-25 04:26:45.355589	keyescape complete
+2020-03-25 04:30:44.037479	seoulescaperoom complete
+2020-03-25 04:43:25.378602	masterkey complete
+2020-03-25 04:49:46.453850	nextedition complete
+2020-03-25 04:50:45.442703	solvergd complete
+2020-03-25 04:51:01.256008	hoteldecode complete
+2020-03-25 04:52:28.050859	codeK complete
+running time: 2337.1640911102295
+
+2020-03-25 05:13:30.892845
+2020-03-25 05:26:48.303443	keyescape complete
+2020-03-25 05:30:53.845304	seoulescaperoom complete
+2020-03-25 05:44:06.452577	masterkey complete
+2020-03-25 05:50:42.237211	nextedition complete
+2020-03-25 05:51:41.312227	solvergd complete
+2020-03-25 05:51:57.224699	hoteldecode complete
+2020-03-25 05:53:26.670384	codeK complete
+running time: 2395.7775387763977
+
+2020-03-25 06:13:30.917949
+2020-03-25 06:26:48.273353	keyescape complete
+2020-03-25 06:30:49.676480	seoulescaperoom complete
+2020-03-25 06:43:26.676497	masterkey complete
+2020-03-25 06:49:58.202296	nextedition complete
+2020-03-25 06:50:57.037611	solvergd complete
+2020-03-25 06:51:13.010549	hoteldecode complete
+2020-03-25 06:52:39.796316	codeK complete
+running time: 2348.878366947174
+
+2020-03-25 07:13:31.138128
+2020-03-25 07:26:49.203138	keyescape complete
+2020-03-25 07:30:58.864756	seoulescaperoom complete
+2020-03-25 07:44:11.512358	masterkey complete
+2020-03-25 07:50:37.626503	nextedition complete
+2020-03-25 07:51:36.004600	solvergd complete
+2020-03-25 07:51:51.983299	hoteldecode complete
+2020-03-25 07:53:17.491808	codeK complete
+running time: 2386.353679895401
+
+2020-03-25 08:13:30.898490
+2020-03-25 08:26:50.081678	keyescape complete
+2020-03-25 08:31:06.919879	seoulescaperoom complete
+2020-03-25 08:44:00.592736	masterkey complete
+2020-03-25 08:50:27.025836	nextedition complete
+2020-03-25 08:51:25.027355	solvergd complete
+2020-03-25 08:51:41.067300	hoteldecode complete
+2020-03-25 08:53:08.818954	codeK complete
+running time: 2377.9204638004303
+
+2020-03-25 09:13:30.882182
+2020-03-25 09:26:49.726827	keyescape complete
+2020-03-25 09:30:57.752778	seoulescaperoom complete
+2020-03-25 09:43:53.854963	masterkey complete
+2020-03-25 09:50:37.248132	nextedition complete
+2020-03-25 09:51:37.176425	solvergd complete
+2020-03-25 09:52:15.052832	hoteldecode complete
+2020-03-25 09:53:46.068752	codeK complete
+running time: 2415.1865708827972
+
+2020-03-25 10:13:30.901229
+2020-03-25 10:26:51.688203	keyescape complete
+2020-03-25 10:31:17.771657	seoulescaperoom complete
+2020-03-25 10:44:57.587863	masterkey complete
+2020-03-25 10:51:30.768995	nextedition complete
+2020-03-25 10:52:29.511354	solvergd complete
+2020-03-25 10:52:45.640629	hoteldecode complete
+2020-03-25 10:54:18.351523	codeK complete
+running time: 2447.4502940177917
+
+2020-03-25 11:13:31.125993
+keyescape error
+2020-03-25 11:28:23.701271	seoulescaperoom complete
+2020-03-25 11:41:25.515730	masterkey complete
+2020-03-25 11:47:55.635076	nextedition complete
+2020-03-25 11:48:54.376547	solvergd complete
+2020-03-25 11:49:41.066106	hoteldecode complete
+2020-03-25 11:51:11.203718	codeK complete
+running time: 2260.0777249336243
+
+2020-03-25 12:13:30.884304
+2020-03-25 12:26:46.495523	keyescape complete
+2020-03-25 12:30:56.114291	seoulescaperoom complete
+2020-03-25 12:44:15.312740	masterkey complete
+2020-03-25 12:50:46.521754	nextedition complete
+2020-03-25 12:51:48.321620	solvergd complete
+2020-03-25 12:52:05.305811	hoteldecode complete
+2020-03-25 12:53:43.573132	codeK complete
+running time: 2412.68882894516
+
+2020-03-25 13:13:30.862134
+2020-03-25 13:26:44.559154	keyescape complete
+2020-03-25 13:30:52.337914	seoulescaperoom complete
+2020-03-25 13:44:00.989365	masterkey complete
+2020-03-25 13:50:37.532313	nextedition complete
+2020-03-25 13:51:31.623807	solvergd complete
+2020-03-25 13:52:34.171179	hoteldecode complete
+2020-03-25 13:53:59.979011	codeK complete
+running time: 2429.116876602173
+
+2020-03-25 14:13:30.861838
+2020-03-25 14:26:39.523808	keyescape complete
+2020-03-25 14:30:43.876675	seoulescaperoom complete
+2020-03-25 14:43:32.513276	masterkey complete
+2020-03-25 14:49:57.633698	nextedition complete
+2020-03-25 14:50:57.604407	solvergd complete
+2020-03-25 14:51:39.461452	hoteldecode complete
+2020-03-25 14:53:05.269819	codeK complete
+running time: 2374.407981157303
+
+2020-03-25 15:13:30.861214
+2020-03-25 15:26:37.449663	keyescape complete
+2020-03-25 15:30:52.367530	seoulescaperoom complete
+2020-03-25 15:44:05.430322	masterkey complete
+2020-03-25 15:50:22.234333	nextedition complete
+2020-03-25 15:51:21.341285	solvergd complete
+2020-03-25 15:52:04.207274	hoteldecode complete
+2020-03-25 15:53:31.557204	codeK complete
+running time: 2400.6959898471832
+
+2020-03-25 16:13:30.864048
+2020-03-25 16:26:31.464057	keyescape complete
+2020-03-25 16:30:55.136153	seoulescaperoom complete
+2020-03-25 16:44:15.684227	masterkey complete
+2020-03-25 16:50:52.330685	nextedition complete
+2020-03-25 16:51:52.349669	solvergd complete
+2020-03-25 16:52:34.858946	hoteldecode complete
+2020-03-25 16:54:05.974226	codeK complete
+running time: 2435.1101775169373
+
+2020-03-25 17:13:30.868729
+2020-03-25 17:26:30.880791	keyescape complete
+2020-03-25 17:30:44.409930	seoulescaperoom complete
+2020-03-25 17:43:42.918551	masterkey complete
+2020-03-25 17:49:58.086098	nextedition complete
+2020-03-25 17:50:56.888786	solvergd complete
+2020-03-25 17:51:12.785787	hoteldecode complete
+2020-03-25 17:52:39.062528	codeK complete
+running time: 2348.193799495697
+
+2020-03-25 18:13:30.869095
+2020-03-25 18:26:26.561701	keyescape complete
+2020-03-25 18:30:44.493280	seoulescaperoom complete
+2020-03-25 18:43:44.932150	masterkey complete
+2020-03-25 18:49:55.786054	nextedition complete
+2020-03-25 18:50:55.410535	solvergd complete
+2020-03-25 18:51:11.132501	hoteldecode complete
+2020-03-25 18:52:35.675826	codeK complete
+running time: 2344.806730747223
+
+2020-03-25 19:13:31.720492
+2020-03-25 19:26:24.188625	keyescape complete
+2020-03-25 19:30:19.878415	seoulescaperoom complete
+2020-03-25 19:43:24.141058	masterkey complete
+2020-03-25 19:49:28.048976	nextedition complete
+2020-03-25 19:50:27.667844	solvergd complete
+2020-03-25 19:50:43.454166	hoteldecode complete
+2020-03-25 19:52:07.590000	codeK complete
+running time: 2315.8695073127747
+
+2020-03-25 20:13:31.747778
+2020-03-25 20:26:36.818257	keyescape complete
+2020-03-25 20:31:38.586717	seoulescaperoom complete
+2020-03-25 20:48:51.217856	masterkey complete
+2020-03-25 20:55:04.206090	nextedition complete
+2020-03-25 20:56:05.802434	solvergd complete
+2020-03-25 20:56:54.168582	hoteldecode complete
+2020-03-25 20:58:21.807686	codeK complete
+running time: 2690.0599081516266
+
+2020-03-25 21:13:31.714092
+2020-03-25 21:27:46.476324	keyescape complete
+2020-03-25 21:32:09.005430	seoulescaperoom complete
+2020-03-25 21:48:06.886402	masterkey complete
+2020-03-25 21:59:48.361718	nextedition complete
+2020-03-25 22:01:11.404331	solvergd complete
+2020-03-25 22:01:32.080981	hoteldecode complete
+2020-03-25 22:03:22.132477	codeK complete
+running time: 2990.418385028839
+
+2020-03-25 22:13:32.273874
+2020-03-25 22:27:50.081746	keyescape complete
+2020-03-25 22:32:21.796308	seoulescaperoom complete
+2020-03-25 22:47:46.521568	masterkey complete
+2020-03-25 22:59:20.081141	nextedition complete
+2020-03-25 23:00:24.817094	solvergd complete
+2020-03-25 23:00:44.498637	hoteldecode complete
+2020-03-25 23:02:33.358766	codeK complete
+running time: 2941.084891319275
+
+2020-03-25 23:13:32.010196
+2020-03-25 23:27:39.605122	keyescape complete
+2020-03-25 23:32:05.442290	seoulescaperoom complete
+2020-03-25 23:47:05.687897	masterkey complete
+2020-03-25 23:58:42.140370	nextedition complete
+2020-03-25 23:59:40.080996	solvergd complete
+2020-03-25 23:59:55.378877	hoteldecode complete
+2020-03-26 00:01:44.944786	codeK complete
+running time: 2892.9345898628235
+
+2020-03-26 00:13:32.156472
+2020-03-26 00:28:15.933048	keyescape complete
+2020-03-26 00:32:46.614807	seoulescaperoom complete
+2020-03-26 00:47:52.455076	masterkey complete
+2020-03-26 00:59:38.102810	nextedition complete
+solvergd error
+2020-03-26 01:01:00.657653	hoteldecode complete
+2020-03-26 01:02:50.389047	codeK complete
+running time: 2958.2332231998444
+
+2020-03-26 01:13:31.986921
+2020-03-26 01:28:08.651204	keyescape complete
+2020-03-26 01:32:41.253551	seoulescaperoom complete
+2020-03-26 01:48:12.077400	masterkey complete
+2020-03-26 01:59:25.733258	nextedition complete
+2020-03-26 02:00:31.981178	solvergd complete
+2020-03-26 02:00:52.104978	hoteldecode complete
+2020-03-26 02:02:39.181623	codeK complete
+running time: 2947.194701910019
+
+2020-03-26 02:13:32.057886
+2020-03-26 02:28:16.264189	keyescape complete
+2020-03-26 02:32:51.515595	seoulescaperoom complete
+2020-03-26 02:48:51.486371	masterkey complete
+2020-03-26 02:59:45.568055	nextedition complete
+solvergd error
+2020-03-26 03:00:42.347702	hoteldecode complete
+2020-03-26 03:02:29.043308	codeK complete
+running time: 2936.9854221343994
+
+2020-03-26 03:13:31.936214
+2020-03-26 03:28:13.473440	keyescape complete
+2020-03-26 03:32:59.615044	seoulescaperoom complete
+2020-03-26 03:48:09.180671	masterkey complete
+2020-03-26 03:59:29.416306	nextedition complete
+2020-03-26 04:02:05.180492	solvergd complete
+2020-03-26 04:02:25.493801	hoteldecode complete
+2020-03-26 04:04:13.405762	codeK complete
+running time: 3041.4695484638214
+
+2020-03-26 04:13:31.758535
+2020-03-26 04:28:17.855156	keyescape complete
+2020-03-26 04:33:07.000558	seoulescaperoom complete
+2020-03-26 04:48:35.604576	masterkey complete
+2020-03-26 04:59:06.171801	nextedition complete
+solvergd error
+2020-03-26 05:00:22.722115	hoteldecode complete
+2020-03-26 05:02:14.461798	codeK complete
+running time: 2922.70326256752
+
+2020-03-26 05:13:31.829227
+2020-03-26 05:28:15.423386	keyescape complete
+2020-03-26 05:32:53.293422	seoulescaperoom complete
+2020-03-26 05:48:16.614569	masterkey complete
+2020-03-26 05:59:08.062047	nextedition complete
+2020-03-26 06:00:04.392518	solvergd complete
+2020-03-26 06:00:25.707556	hoteldecode complete
+2020-03-26 06:02:10.820767	codeK complete
+running time: 2918.991539478302
+
+2020-03-26 06:13:33.808469
+2020-03-26 06:28:19.255290	keyescape complete
+2020-03-26 06:32:49.493752	seoulescaperoom complete
+2020-03-26 06:47:27.328203	masterkey complete
+2020-03-26 06:58:30.571590	nextedition complete
+2020-03-26 06:59:24.576717	solvergd complete
+2020-03-26 06:59:40.073523	hoteldecode complete
+2020-03-26 07:01:25.262038	codeK complete
+running time: 2871.4535686969757
+
+2020-03-26 07:13:32.352679
+2020-03-26 07:28:01.946947	keyescape complete
+2020-03-26 07:32:44.061815	seoulescaperoom complete
+2020-03-26 07:48:01.693771	masterkey complete
+2020-03-26 07:59:00.536631	nextedition complete
+2020-03-26 07:59:53.114722	solvergd complete
+2020-03-26 08:00:13.163358	hoteldecode complete
+2020-03-26 08:02:03.541605	codeK complete
+running time: 2911.1889259815216
+
+2020-03-26 08:13:32.159094
+2020-03-26 08:28:06.768435	keyescape complete
+2020-03-26 08:32:47.614780	seoulescaperoom complete
+2020-03-26 09:06:18.259609	masterkey complete
+2020-03-26 10:10:12.052204	nextedition complete
+2020-03-26 10:13:07.861513	solvergd complete
+2020-03-26 10:14:23.256391	hoteldecode complete
+2020-03-26 10:22:16.247151	codeK complete
+running time: 7724.088057756424
+
+2020-03-26 10:43:32.168452
+2020-03-26 11:08:44.552551	keyescape complete
+2020-03-26 11:40:47.362298	seoulescaperoom complete
+2020-03-26 12:20:26.966608	masterkey complete
+2020-03-26 13:20:57.465206	nextedition complete
+2020-03-26 13:24:26.352792	solvergd complete
+2020-03-26 13:26:24.355467	hoteldecode complete
+2020-03-26 13:39:29.145131	codeK complete
+running time: 10556.976679086685
+
+2020-03-26 13:43:37.866428
+2020-03-26 14:10:14.949489	keyescape complete
+2020-03-26 14:26:20.864690	seoulescaperoom complete
+2020-03-26 15:13:15.144685	masterkey complete
+2020-03-26 16:17:10.857564	nextedition complete
+2020-03-26 16:19:31.947018	solvergd complete
+2020-03-26 16:20:28.950867	hoteldecode complete
+2020-03-26 16:25:52.662859	codeK complete
+running time: 9734.79643034935
+
+2020-03-26 16:43:38.465522
+2020-03-26 17:05:10.547631	keyescape complete
+2020-03-26 17:31:48.645616	seoulescaperoom complete
+2020-03-26 18:23:09.870829	masterkey complete
+2020-03-26 19:10:51.346883	nextedition complete
+2020-03-26 19:15:15.650526	solvergd complete
+2020-03-26 19:17:14.339867	hoteldecode complete
+2020-03-26 19:30:17.247537	codeK complete
+running time: 9998.782014846802
+
+2020-03-26 19:43:33.463422
+2020-03-26 20:03:03.741354	keyescape complete
+2020-03-26 20:16:39.355553	seoulescaperoom complete
+2020-03-26 21:08:35.868690	masterkey complete
+2020-03-26 21:51:51.366696	nextedition complete
+2020-03-26 21:55:25.738705	solvergd complete
+2020-03-26 21:57:46.162140	hoteldecode complete
+2020-03-26 22:10:57.857994	codeK complete
+running time: 8844.394572734833
+
+2020-03-26 22:13:41.064375
+2020-03-26 22:34:18.963437	keyescape complete
+2020-03-26 22:54:25.850074	seoulescaperoom complete
+2020-03-26 23:47:25.249011	masterkey complete
+2020-03-27 00:33:03.046043	nextedition complete
+2020-03-27 00:36:23.749320	solvergd complete
+2020-03-27 00:37:54.761171	hoteldecode complete
+2020-03-27 00:47:03.561398	codeK complete
+running time: 9202.497022390366
+
+2020-03-27 01:13:40.263933
+keyescape error
+2020-03-27 01:53:19.856237	seoulescaperoom complete
+2020-03-27 02:47:35.849242	masterkey complete
+2020-03-27 03:44:06.062889	nextedition complete
+2020-03-27 03:48:18.663378	solvergd complete
+2020-03-27 03:50:28.357608	hoteldecode complete
+2020-03-27 03:59:46.045329	codeK complete
+running time: 9965.781396150589
+
+2020-03-27 04:13:34.064325
+2020-03-27 04:32:54.547426	keyescape complete
+2020-03-27 04:59:10.260796	seoulescaperoom complete
+2020-03-27 05:51:35.663445	masterkey complete
+2020-03-27 06:45:23.142424	nextedition complete
+2020-03-27 06:49:44.762195	solvergd complete
+2020-03-27 06:51:33.252698	hoteldecode complete
+2020-03-27 07:04:51.258766	codeK complete
+running time: 10277.195556402206
+
+2020-03-27 07:13:33.860617
+2020-03-27 07:27:28.864355	keyescape complete
+2020-03-27 07:42:35.845096	seoulescaperoom complete
+2020-03-27 08:36:56.060886	masterkey complete
+2020-03-27 09:32:53.553792	nextedition complete
+2020-03-27 09:36:59.956944	solvergd complete
+2020-03-27 09:38:54.161559	hoteldecode complete
+2020-03-27 09:51:28.163291	codeK complete
+running time: 9474.3026740551
+
+2020-03-27 10:13:37.161446
+2020-03-27 10:34:12.362631	keyescape complete
+2020-03-27 10:54:23.251918	seoulescaperoom complete
+2020-03-27 11:49:45.444078	masterkey complete
+2020-03-27 12:49:41.237590	nextedition complete
+2020-03-27 12:53:57.147951	solvergd complete
+2020-03-27 12:56:22.855399	hoteldecode complete
+2020-03-27 13:09:32.349109	codeK complete
+running time: 10555.187663316727
+
+2020-03-27 13:13:44.762136
+2020-03-27 13:33:00.055614	keyescape complete
+2020-03-27 13:58:35.551378	seoulescaperoom complete
+2020-03-27 14:51:22.446744	masterkey complete
+2020-03-27 15:34:20.562304	nextedition complete
+2020-03-27 15:38:42.548889	solvergd complete
+2020-03-27 15:41:20.046388	hoteldecode complete
+2020-03-27 15:53:52.145985	codeK complete
+running time: 9607.384984731674
+
+2020-03-27 16:13:39.161959
+2020-03-27 16:31:05.850148	keyescape complete
+2020-03-27 16:55:39.036983	seoulescaperoom complete
+2020-03-27 17:53:55.154351	masterkey complete
+2020-03-27 18:38:19.950500	nextedition complete
+2020-03-27 18:42:41.256126	solvergd complete
+2020-03-27 18:44:44.544391	hoteldecode complete
+2020-03-27 18:58:00.447175	codeK complete
+running time: 9861.285215854645
+
+2020-03-27 19:13:36.074328
+2020-03-27 19:33:31.050576	keyescape complete
+2020-03-27 19:58:55.261594	seoulescaperoom complete
+2020-03-27 20:55:14.745440	masterkey complete
+2020-03-27 22:02:45.164922	nextedition complete
+2020-03-27 22:07:27.251635	solvergd complete
+2020-03-27 22:09:00.652313	hoteldecode complete
+2020-03-27 22:15:56.657871	codeK complete
+running time: 10940.583542346954
+
+2020-03-27 22:43:35.642389
+2020-03-27 23:07:19.159502	keyescape complete
+2020-03-27 23:37:07.868272	seoulescaperoom complete
+2020-03-28 00:19:26.848687	masterkey complete
+2020-03-28 01:27:34.160600	nextedition complete
+2020-03-28 01:30:24.047371	solvergd complete
+2020-03-28 01:32:07.651022	hoteldecode complete
+2020-03-28 01:43:03.541257	codeK complete
+running time: 10767.898868083954
+
+2020-03-28 01:43:37.762052
+2020-03-28 02:05:05.355780	keyescape complete
+2020-03-28 02:25:11.468915	seoulescaperoom complete
+2020-03-28 03:16:52.457373	masterkey complete
+2020-03-28 04:02:02.647557	nextedition complete
+2020-03-28 04:05:16.146838	solvergd complete
+2020-03-28 04:06:48.256801	hoteldecode complete
+2020-03-28 04:15:49.076034	codeK complete
+running time: 9131.313982248306
+
+2020-03-28 04:43:43.561048
+2020-03-28 05:08:15.454159	keyescape complete
+2020-03-28 05:34:17.044425	seoulescaperoom complete
+2020-03-28 06:27:46.758251	masterkey complete
+2020-03-28 07:22:06.035413	nextedition complete
+2020-03-28 07:25:52.638849	solvergd complete
+2020-03-28 07:27:09.451589	hoteldecode complete
+2020-03-28 07:38:15.460395	codeK complete
+running time: 10471.89934682846
+
+2020-03-28 07:43:32.059622
+2020-03-28 08:01:53.436372	keyescape complete
+2020-03-28 08:27:40.458440	seoulescaperoom complete
+2020-03-28 09:17:37.551424	masterkey complete
+2020-03-28 09:48:57.039991	nextedition complete
+2020-03-28 09:52:04.865174	solvergd complete
+2020-03-28 09:53:33.639294	hoteldecode complete
+2020-03-28 10:04:56.859672	codeK complete
+running time: 8484.800050497055
+
+2020-03-28 10:13:39.434621
+2020-03-28 10:39:22.351011	keyescape complete
+2020-03-28 11:02:10.144856	seoulescaperoom complete
+2020-03-28 11:40:54.535353	masterkey complete
+2020-03-28 12:29:50.552020	nextedition complete
+2020-03-28 12:33:11.343199	solvergd complete
+2020-03-28 12:35:17.555143	hoteldecode complete
+2020-03-28 12:44:58.639821	codeK complete
+running time: 9079.205200195312
+
+2020-03-28 13:13:34.856734
+2020-03-28 13:27:50.401629	keyescape complete
+2020-03-28 13:40:32.639932	seoulescaperoom complete
+2020-03-28 14:39:27.745763	masterkey complete
+2020-03-28 15:35:16.447877	nextedition complete
+2020-03-28 15:39:28.355795	solvergd complete
+2020-03-28 15:41:52.062200	hoteldecode complete
+2020-03-28 15:54:57.142199	codeK complete
+running time: 9682.285464525223
+
+2020-03-28 16:13:32.455072
+2020-03-28 16:33:35.166756	keyescape complete
+2020-03-28 16:57:58.064266	seoulescaperoom complete
+2020-03-28 17:54:06.646801	masterkey complete
+2020-03-28 18:59:04.959052	nextedition complete
+2020-03-28 19:03:25.661113	solvergd complete
+2020-03-28 19:05:37.249258	hoteldecode complete
+2020-03-28 19:17:55.269738	codeK complete
+running time: 11062.814665794373
+
+2020-03-28 19:43:35.248429
+2020-03-28 20:07:09.547866	keyescape complete
+2020-03-28 20:33:28.751465	seoulescaperoom complete
+2020-03-28 21:29:50.153161	masterkey complete
+2020-03-28 22:31:46.861234	nextedition complete
+2020-03-28 22:35:52.763914	solvergd complete
+2020-03-28 22:38:27.342988	hoteldecode complete
+2020-03-28 22:51:29.444570	codeK complete
+running time: 11274.1961414814
+
+2020-03-28 23:13:33.563083
+2020-03-28 23:32:51.347303	keyescape complete
+2020-03-28 23:55:36.161123	seoulescaperoom complete
+2020-03-29 00:51:05.270041	masterkey complete
+2020-03-29 01:54:11.453196	nextedition complete
+2020-03-29 01:58:03.747254	solvergd complete
+2020-03-29 02:00:00.743178	hoteldecode complete
+2020-03-29 02:08:14.956788	codeK complete
+running time: 10481.393705129623
+
+2020-03-29 02:13:31.916575
+2020-03-29 02:26:46.630902	keyescape complete
+2020-03-29 02:41:52.857567	seoulescaperoom complete
+2020-03-29 03:38:58.553720	masterkey complete
+2020-03-29 04:27:16.456854	nextedition complete
+2020-03-29 04:29:54.362681	solvergd complete
+2020-03-29 04:32:00.756412	hoteldecode complete
+2020-03-29 04:44:32.949504	codeK complete
+running time: 9061.032930135727
+
+2020-03-29 05:13:34.359777
+2020-03-29 05:33:48.156157	keyescape complete
+2020-03-29 05:47:09.267481	seoulescaperoom complete
+2020-03-29 06:38:05.345548	masterkey complete
+2020-03-29 07:23:43.934028	nextedition complete
+2020-03-29 07:27:02.548684	solvergd complete
+2020-03-29 07:28:57.641308	hoteldecode complete
+2020-03-29 07:41:19.346919	codeK complete
+running time: 8864.987142562866
+
+2020-03-29 07:43:38.560118
+keyescape error
+2020-03-29 08:10:36.451625	seoulescaperoom complete
+2020-03-29 08:54:07.452376	masterkey complete
+2020-03-29 09:48:14.140279	nextedition complete
+2020-03-29 09:49:40.859679	solvergd complete
+2020-03-29 09:50:28.768178	hoteldecode complete
+2020-03-29 09:54:04.672333	codeK complete
+running time: 7826.112215280533
+
+2020-03-29 10:13:35.761864
+2020-03-29 10:38:16.054039	keyescape complete
+2020-03-29 11:07:09.847394	seoulescaperoom complete
+2020-03-29 11:39:49.657466	masterkey complete
+2020-03-29 12:48:26.961299	nextedition complete
+2020-03-29 12:51:54.045848	solvergd complete
+2020-03-29 12:53:23.645388	hoteldecode complete
+2020-03-29 13:02:13.054732	codeK complete
+running time: 10117.292867422104
+
+2020-03-29 13:13:32.653481
+2020-03-29 13:30:50.657112	keyescape complete
+2020-03-29 13:58:42.553756	seoulescaperoom complete
+2020-03-29 14:53:25.828779	masterkey complete
+2020-03-29 15:38:52.459759	nextedition complete
+2020-03-29 15:41:58.943549	solvergd complete
+2020-03-29 15:43:57.660938	hoteldecode complete
+2020-03-29 15:52:37.748978	codeK complete
+running time: 9545.095496177673
+
+2020-03-29 16:13:52.237827
+2020-03-29 16:38:12.251695	keyescape complete
+2020-03-29 17:05:41.247832	seoulescaperoom complete
+2020-03-29 17:32:10.854367	masterkey complete
+2020-03-29 18:41:02.844709	nextedition complete
+2020-03-29 18:44:51.348953	solvergd complete
+2020-03-29 18:47:40.260889	hoteldecode complete
+2020-03-29 18:57:09.450708	codeK complete
+running time: 9797.212880849838
+
+2020-03-29 19:13:30.936243
+2020-03-29 19:30:55.653270	keyescape complete
+2020-03-29 19:56:32.447466	seoulescaperoom complete
+2020-03-29 20:48:40.933833	masterkey complete
+2020-03-29 21:37:19.155333	nextedition complete
+2020-03-29 21:40:17.346295	solvergd complete
+2020-03-29 21:42:35.341148	hoteldecode complete
+2020-03-29 21:51:28.136468	codeK complete
+running time: 9477.200224399567
+
+2020-03-29 22:13:39.055490
+2020-03-29 22:37:15.241906	keyescape complete
+2020-03-29 22:58:36.452298	seoulescaperoom complete
+2020-03-29 23:52:04.252363	masterkey complete
+2020-03-30 00:53:37.455702	nextedition complete
+2020-03-30 00:56:23.666864	solvergd complete
+2020-03-30 00:57:51.662521	hoteldecode complete
+2020-03-30 01:09:25.552718	codeK complete
+running time: 10546.497228622437
+
+2020-03-30 01:13:38.860462
+2020-03-30 01:38:35.544042	keyescape complete
+2020-03-30 01:59:59.450833	seoulescaperoom complete
+2020-03-30 02:50:47.549336	masterkey complete
+2020-03-30 03:39:51.944010	nextedition complete
+2020-03-30 03:42:49.145440	solvergd complete
+2020-03-30 03:44:31.858240	hoteldecode complete
+2020-03-30 03:54:22.449104	codeK complete
+running time: 9643.588641643524
+
+2020-03-30 04:13:38.933504
+2020-03-30 04:36:40.461470	keyescape complete
+2020-03-30 04:46:28.832579	seoulescaperoom complete
+2020-03-30 05:17:37.747079	masterkey complete
+2020-03-30 06:20:19.144995	nextedition complete
+2020-03-30 06:23:02.845607	solvergd complete
+2020-03-30 06:24:37.032237	hoteldecode complete
+2020-03-30 06:33:26.446887	codeK complete
+running time: 8387.513382434845
+
+2020-03-30 06:43:30.928653
+2020-03-30 07:00:56.753740	keyescape complete
+2020-03-30 07:27:19.551895	seoulescaperoom complete
+2020-03-30 08:20:39.137687	masterkey complete
+2020-03-30 09:22:13.249788	nextedition complete
+2020-03-30 09:25:15.557729	solvergd complete
+2020-03-30 09:27:04.948448	hoteldecode complete
+2020-03-30 09:40:11.844672	codeK complete
+running time: 10600.916018724442
+
+2020-03-30 09:43:37.461579
+2020-03-30 10:10:08.457078	keyescape complete
+2020-03-30 10:32:31.052036	seoulescaperoom complete
+2020-03-30 11:16:02.941796	masterkey complete
+2020-03-30 12:07:48.244034	nextedition complete
+2020-03-30 12:10:52.759014	solvergd complete
+2020-03-30 12:12:38.863729	hoteldecode complete
+2020-03-30 12:22:36.256907	codeK complete
+running time: 9538.795327425003
+
+2020-03-30 12:43:39.444201
+2020-03-30 13:00:13.389740	keyescape complete
+2020-03-30 13:23:59.845015	seoulescaperoom complete
+2020-03-30 14:24:52.840754	masterkey complete
+2020-03-30 15:30:38.636580	nextedition complete
+2020-03-30 15:34:35.436874	solvergd complete
+2020-03-30 15:36:49.957282	hoteldecode complete
+2020-03-30 15:49:25.854192	codeK complete
+running time: 11146.409991502762
+
+2020-03-30 16:13:34.350474
+2020-03-30 16:35:05.435414	keyescape complete
+2020-03-30 17:04:58.043136	seoulescaperoom complete
+2020-03-30 18:01:12.746013	masterkey complete
+2020-03-30 18:44:41.440526	nextedition complete
+2020-03-30 18:47:44.645528	solvergd complete
+2020-03-30 18:49:30.554183	hoteldecode complete
+2020-03-30 18:59:54.042073	codeK complete
+running time: 9979.691599607468
+
+2020-03-30 19:13:32.955904
+2020-03-30 19:37:26.740954	keyescape complete
+2020-03-30 19:58:45.754141	seoulescaperoom complete
+2020-03-30 20:33:15.534941	masterkey complete
+2020-03-30 21:31:38.845424	nextedition complete
+2020-03-30 21:34:45.644017	solvergd complete
+2020-03-30 21:36:44.356547	hoteldecode complete
+2020-03-30 21:46:19.740113	codeK complete
+running time: 9166.784207820892
+
+2020-03-30 22:13:32.459616
+2020-03-30 22:28:20.397207	keyescape complete
+2020-03-30 22:42:53.547473	seoulescaperoom complete
+2020-03-30 23:41:47.446171	masterkey complete
+2020-03-31 00:26:48.761828	nextedition complete
+2020-03-31 00:29:15.649239	solvergd complete
+2020-03-31 00:31:10.644679	hoteldecode complete
+2020-03-31 00:44:30.149958	codeK complete
+running time: 9057.690342187881
+
+2020-03-31 01:13:33.059195
+2020-03-31 01:34:03.438805	keyescape complete
+2020-03-31 01:47:44.770503	seoulescaperoom complete
+2020-03-31 02:38:21.662678	masterkey complete
+2020-03-31 03:31:01.642803	nextedition complete
+2020-03-31 03:34:35.247719	solvergd complete
+2020-03-31 03:36:32.439236	hoteldecode complete
+2020-03-31 03:48:42.652134	codeK complete
+running time: 9309.592939853668
+
+2020-03-31 04:13:33.941501
+2020-03-31 04:38:08.957003	keyescape complete
+2020-03-31 05:07:14.755407	seoulescaperoom complete
+2020-03-31 05:50:40.740604	masterkey complete
+2020-03-31 06:57:34.260810	nextedition complete
+2020-03-31 07:00:16.645970	solvergd complete
+2020-03-31 07:01:53.244374	hoteldecode complete
+2020-03-31 07:12:23.855853	codeK complete
+running time: 10729.914351701736
+
+2020-03-31 07:13:34.154287
+2020-03-31 07:31:43.849638	keyescape complete
+2020-03-31 08:01:34.745969	seoulescaperoom complete
+2020-03-31 08:53:46.534112	masterkey complete
+2020-03-31 09:35:01.043134	nextedition complete
+2020-03-31 09:37:59.257826	solvergd complete
+2020-03-31 09:39:30.157582	hoteldecode complete
+2020-03-31 09:49:15.954409	codeK complete
+running time: 9341.8012509346
+
+2020-03-31 10:13:51.450430
+2020-03-31 10:38:42.445770	keyescape complete
+2020-03-31 10:59:26.641303	seoulescaperoom complete
+2020-03-31 11:54:53.945954	masterkey complete
+2020-03-31 13:02:06.440968	nextedition complete
+2020-03-31 13:05:15.258661	solvergd complete
+2020-03-31 13:07:05.240899	hoteldecode complete
+2020-03-31 13:15:05.443697	codeK complete
+running time: 10873.993267059326
+
+2020-03-31 13:43:33.549092
+2020-03-31 14:12:34.256046	keyescape complete
+2020-03-31 14:53:33.755389	seoulescaperoom complete
+2020-03-31 15:26:35.463601	masterkey complete
+2020-03-31 15:45:55.902773	nextedition complete
+solvergd error
+2020-03-31 15:47:15.441544	hoteldecode complete
+2020-03-31 15:50:53.768733	codeK complete
+running time: 7640.219640254974
+
+2020-03-31 16:28:00.074670
+2020-03-31 16:40:53.580847	keyescape complete
+2020-03-31 16:44:50.358524	seoulescaperoom complete
+2020-03-31 16:58:31.508628	masterkey complete
+2020-03-31 17:11:36.136647	nextedition complete
+solvergd error
+2020-03-31 17:13:17.749585	hoteldecode complete
+2020-03-31 17:17:16.847619	codeK complete
+running time: 2956.772948741913
+
+2020-03-31 17:58:15.890620
+2020-03-31 18:11:06.725284	keyescape complete
+2020-03-31 18:15:14.989420	seoulescaperoom complete
+2020-03-31 18:28:45.743458	masterkey complete
+2020-03-31 18:38:57.717537	nextedition complete
+2020-03-31 18:40:15.960010	solvergd complete
+2020-03-31 18:41:14.137786	hoteldecode complete
+2020-03-31 18:45:05.038607	codeK complete
+running time: 2809.1479873657227
+
+2020-03-31 19:27:52.970363
+2020-03-31 19:40:38.997122	keyescape complete
+2020-03-31 19:44:30.119501	seoulescaperoom complete
+2020-03-31 19:58:17.497760	masterkey complete
+2020-03-31 20:07:18.819971	nextedition complete
+2020-03-31 20:08:34.357332	solvergd complete
+2020-03-31 20:09:38.460046	hoteldecode complete
+2020-03-31 20:13:21.743620	codeK complete
+running time: 2728.773257493973
+
+2020-03-31 21:28:15.556814
+2020-03-31 21:40:57.924276	keyescape complete
+2020-03-31 21:44:54.732414	seoulescaperoom complete
+2020-03-31 21:58:22.603485	masterkey complete
+2020-03-31 22:04:33.909952	nextedition complete
+2020-03-31 22:04:54.445876	solvergd complete
+2020-03-31 22:05:35.343072	hoteldecode complete
+2020-03-31 22:06:59.396510	codeK complete
+running time: 2323.8396966457367
+
+2020-03-31 22:29:10.043086
+2020-03-31 22:41:55.487282	keyescape complete
+2020-03-31 22:45:47.553554	seoulescaperoom complete
+2020-03-31 22:59:42.453903	masterkey complete
+2020-03-31 23:11:21.289580	nextedition complete
+2020-03-31 23:12:37.247487	solvergd complete
+2020-03-31 23:13:27.738675	hoteldecode complete
+2020-03-31 23:17:16.248690	codeK complete
+running time: 2886.205604314804
+
+2020-04-01 00:58:50.082111
+2020-04-01 01:12:00.489587	keyescape complete
+2020-04-01 01:15:49.514944	seoulescaperoom complete
+2020-04-01 01:29:16.525121	masterkey complete
+2020-04-01 01:35:23.484409	nextedition complete
+2020-04-01 01:35:50.180286	solvergd complete
+2020-04-01 01:36:06.089609	hoteldecode complete
+2020-04-01 01:37:30.270770	codeK complete
+running time: 2320.1886591911316
+
+2020-04-01 02:57:44.145786
+2020-04-01 03:11:05.078742	keyescape complete
+2020-04-01 03:15:07.451949	seoulescaperoom complete
+2020-04-01 03:28:15.898697	masterkey complete
+2020-04-01 03:34:15.202934	nextedition complete
+2020-04-01 03:34:36.899207	solvergd complete
+2020-04-01 03:34:52.079602	hoteldecode complete
+2020-04-01 03:36:19.895307	codeK complete
+running time: 2315.7495210170746
+
+2020-04-01 03:58:47.931610
+2020-04-01 04:12:08.443657	keyescape complete
+2020-04-01 04:15:57.762994	seoulescaperoom complete
+2020-04-01 04:29:08.117154	masterkey complete
+2020-04-01 04:35:10.365629	nextedition complete
+2020-04-01 04:35:32.603677	solvergd complete
+2020-04-01 04:35:48.254847	hoteldecode complete
+2020-04-01 04:37:10.281926	codeK complete
+running time: 2302.3503160476685
+
+2020-04-01 04:58:55.534119
+2020-04-01 05:12:11.575399	keyescape complete
+2020-04-01 05:15:54.248750	seoulescaperoom complete
+2020-04-01 05:28:52.256242	masterkey complete
+2020-04-01 05:34:54.165597	nextedition complete
+2020-04-01 05:35:18.127399	solvergd complete
+2020-04-01 05:35:33.625219	hoteldecode complete
+2020-04-01 05:36:55.274545	codeK complete
+running time: 2279.7404267787933
+
+2020-04-01 05:59:01.519454
+2020-04-01 06:12:20.707675	keyescape complete
+2020-04-01 06:16:23.584271	seoulescaperoom complete
+2020-04-01 06:29:28.319217	masterkey complete
+2020-04-01 06:35:30.724678	nextedition complete
+2020-04-01 06:35:49.531752	solvergd complete
+2020-04-01 06:36:18.175525	hoteldecode complete
+2020-04-01 06:40:02.648174	codeK complete
+running time: 2461.1287200450897
+
+2020-04-01 06:58:48.556153
+2020-04-01 07:11:58.346177	keyescape complete
+2020-04-01 07:15:50.847485	seoulescaperoom complete
+2020-04-01 07:35:32.246724	masterkey complete
+2020-04-01 07:51:22.896588	nextedition complete
+2020-04-01 07:52:35.641494	solvergd complete
+2020-04-01 07:53:26.940898	hoteldecode complete
+2020-04-01 07:57:06.665215	codeK complete
+running time: 3498.109061717987
+
+2020-04-01 08:28:25.432990
+2020-04-01 08:41:35.760175	keyescape complete
+2020-04-01 08:45:34.671568	seoulescaperoom complete
+2020-04-01 08:59:32.708292	masterkey complete
+2020-04-01 09:16:38.601002	nextedition complete
+2020-04-01 09:17:53.544252	solvergd complete
+2020-04-01 09:18:49.452661	hoteldecode complete
+2020-04-01 09:22:38.744194	codeK complete
+running time: 3253.311203479767
+
+2020-04-01 10:28:50.984244
+2020-04-01 10:42:10.728426	keyescape complete
+2020-04-01 10:46:06.889169	seoulescaperoom complete
+2020-04-01 10:59:29.441980	masterkey complete
+2020-04-01 11:05:43.849732	nextedition complete
+2020-04-01 11:06:06.412699	solvergd complete
+2020-04-01 11:06:59.727761	hoteldecode complete
+2020-04-01 11:08:30.003296	codeK complete
+running time: 2379.019052505493
+
+2020-04-01 12:58:27.658855
+2020-04-01 13:11:41.454167	keyescape complete
+2020-04-01 13:15:31.696241	seoulescaperoom complete
+2020-04-01 13:28:51.950073	masterkey complete
+2020-04-01 13:34:57.517048	nextedition complete
+2020-04-01 13:35:17.469728	solvergd complete
+2020-04-01 13:35:33.412576	hoteldecode complete
+2020-04-01 13:36:57.677815	codeK complete
+running time: 2310.018960237503
+
+2020-04-01 13:58:49.764954
+2020-04-01 14:11:59.909098	keyescape complete
+2020-04-01 14:15:52.518194	seoulescaperoom complete
+2020-04-01 14:29:32.318003	masterkey complete
+2020-04-01 14:35:39.612304	nextedition complete
+2020-04-01 14:36:05.680378	solvergd complete
+2020-04-01 14:36:22.146652	hoteldecode complete
+2020-04-01 14:37:55.102449	codeK complete
+running time: 2345.3374950885773
+
+2020-04-01 14:58:38.120255
+2020-04-01 15:11:49.099196	keyescape complete
+2020-04-01 15:15:58.298312	seoulescaperoom complete
+2020-04-01 15:29:32.771281	masterkey complete
+2020-04-01 15:35:44.875655	nextedition complete
+2020-04-01 15:36:07.406489	solvergd complete
+2020-04-01 15:36:59.820880	hoteldecode complete
+2020-04-01 15:38:28.214715	codeK complete
+running time: 2390.09445977211
+
+2020-04-01 15:57:23.412308
+2020-04-01 16:10:24.016200	keyescape complete
+2020-04-01 16:14:10.876254	seoulescaperoom complete
+2020-04-01 16:33:11.085468	masterkey complete
+2020-04-01 16:53:11.666269	nextedition complete
+2020-04-01 16:54:34.744604	solvergd complete
+2020-04-01 16:55:46.271703	hoteldecode complete
+2020-04-01 16:59:36.669223	codeK complete
+running time: 3733.2569148540497
+
+2020-04-01 17:27:19.193599
+2020-04-01 17:40:11.313270	keyescape complete
+2020-04-01 17:44:02.492515	seoulescaperoom complete
+2020-04-01 17:58:18.045975	masterkey complete
+2020-04-01 18:15:16.621575	nextedition complete
+2020-04-01 18:16:40.547363	solvergd complete
+2020-04-01 18:17:45.165475	hoteldecode complete
+2020-04-01 18:21:48.764761	codeK complete
+running time: 3269.57116150856
+
+2020-04-01 19:28:04.684759
+2020-04-01 19:40:52.866462	keyescape complete
+2020-04-01 19:44:44.230545	seoulescaperoom complete
+2020-04-01 19:58:11.611768	masterkey complete
+2020-04-01 20:04:25.467372	nextedition complete
+2020-04-01 20:04:47.681683	solvergd complete
+2020-04-01 20:05:35.542015	hoteldecode complete
+2020-04-01 20:07:03.365710	codeK complete
+running time: 2338.6809508800507
+
+2020-04-01 20:28:01.003612
+2020-04-01 20:40:44.925893	keyescape complete
+2020-04-01 20:44:41.559242	seoulescaperoom complete
+2020-04-01 21:01:12.859252	masterkey complete
+2020-04-01 21:21:36.813767	nextedition complete
+2020-04-01 21:22:57.863220	solvergd complete
+2020-04-01 21:23:50.648268	hoteldecode complete
+2020-04-01 21:27:38.870536	codeK complete
+running time: 3577.86692404747
+
+2020-04-01 21:58:41.297421
+2020-04-01 22:11:21.916061	keyescape complete
+2020-04-01 22:15:15.088915	seoulescaperoom complete
+2020-04-01 22:29:55.843971	masterkey complete
+2020-04-01 22:47:26.194224	nextedition complete
+2020-04-01 22:48:48.045135	solvergd complete
+2020-04-01 22:49:41.245389	hoteldecode complete
+2020-04-01 22:53:31.858342	codeK complete
+running time: 3290.5609209537506
+
+2020-04-02 00:03:51.534196
+2020-04-02 00:17:02.239336	keyescape complete
+2020-04-02 00:21:01.164762	seoulescaperoom complete
+2020-04-02 00:34:17.592811	masterkey complete
+2020-04-02 00:40:29.134439	nextedition complete
+2020-04-02 00:40:53.792353	solvergd complete
+2020-04-02 00:41:09.590892	hoteldecode complete
+2020-04-02 00:42:37.843082	codeK complete
+running time: 2326.3088853359222
+
+2020-04-02 00:58:44.829806
+2020-04-02 01:11:55.810617	keyescape complete
+2020-04-02 01:15:46.054873	seoulescaperoom complete
+2020-04-02 01:29:31.741037	masterkey complete
+2020-04-02 01:48:55.720628	nextedition complete
+2020-04-02 01:50:17.282736	solvergd complete
+2020-04-02 01:51:08.443767	hoteldecode complete
+2020-04-02 01:54:54.748050	codeK complete
+running time: 3369.918244123459
+
+2020-04-02 02:58:47.956518
+2020-04-02 03:11:59.356308	keyescape complete
+2020-04-02 03:16:01.604322	seoulescaperoom complete
+2020-04-02 03:29:40.418161	masterkey complete
+2020-04-02 03:35:54.491067	nextedition complete
+2020-04-02 03:36:19.506984	solvergd complete
+2020-04-02 03:36:34.777813	hoteldecode complete
+2020-04-02 03:37:58.828701	codeK complete
+running time: 2350.8721833229065
+
+2020-04-02 03:58:49.798440
+2020-04-02 04:12:10.643612	keyescape complete
+2020-04-02 04:16:12.153960	seoulescaperoom complete
+2020-04-02 04:32:32.838329	masterkey complete
+2020-04-02 04:52:30.788989	nextedition complete
+2020-04-02 04:53:52.450045	solvergd complete
+2020-04-02 04:54:44.878036	hoteldecode complete
+2020-04-02 04:58:33.171364	codeK complete
+running time: 3583.372924566269
+
+2020-04-02 05:28:46.510795
+2020-04-02 05:42:05.486534	keyescape complete
+2020-04-02 05:46:00.850681	seoulescaperoom complete
+2020-04-02 05:59:47.745117	masterkey complete
+2020-04-02 06:22:38.369595	nextedition complete
+2020-04-02 06:23:57.857675	solvergd complete
+2020-04-02 06:24:49.442367	hoteldecode complete
+2020-04-02 06:28:38.848422	codeK complete
+running time: 3592.337626695633
+
+2020-04-02 06:58:56.958412
+2020-04-02 07:12:08.489438	keyescape complete
+2020-04-02 07:15:57.112462	seoulescaperoom complete
+2020-04-02 07:29:01.196609	masterkey complete
+2020-04-02 07:45:57.520742	nextedition complete
+2020-04-02 07:47:14.842008	solvergd complete
+2020-04-02 07:48:04.836380	hoteldecode complete
+2020-04-02 07:51:56.442317	codeK complete
+running time: 3179.483904838562
+
+2020-04-02 08:28:35.101719
+2020-04-02 08:41:50.651174	keyescape complete
+2020-04-02 08:45:47.420549	seoulescaperoom complete
+2020-04-02 08:59:25.847344	masterkey complete
+2020-04-02 09:17:08.736667	nextedition complete
+2020-04-02 09:18:26.938470	solvergd complete
+2020-04-02 09:19:18.846883	hoteldecode complete
+2020-04-02 09:23:17.449952	codeK complete
+running time: 3282.3482327461243
+
+2020-04-02 09:58:46.373601
+2020-04-02 10:12:05.395160	keyescape complete
+2020-04-02 10:16:06.585899	seoulescaperoom complete
+2020-04-02 10:29:54.960851	masterkey complete
+2020-04-02 10:46:37.830297	nextedition complete
+2020-04-02 10:48:03.457282	solvergd complete
+2020-04-02 10:49:17.644186	hoteldecode complete
+2020-04-02 10:53:21.268459	codeK complete
+running time: 3274.894857645035
+
+2020-04-02 11:28:48.237135
+2020-04-02 11:41:59.522490	keyescape complete
+2020-04-02 11:46:00.480945	seoulescaperoom complete
+2020-04-02 12:00:01.295666	masterkey complete
+2020-04-02 12:19:56.216685	nextedition complete
+2020-04-02 12:21:18.958239	solvergd complete
+2020-04-02 12:22:24.941327	hoteldecode complete
+2020-04-02 12:26:20.045597	codeK complete
+running time: 3451.808462381363
+
+2020-04-02 12:57:22.132054
+2020-04-02 13:10:37.259925	keyescape complete
+2020-04-02 13:14:39.138044	seoulescaperoom complete
+2020-04-02 13:31:24.563335	masterkey complete
+2020-04-02 13:52:13.079562	nextedition complete
+2020-04-02 13:53:35.751603	solvergd complete
+2020-04-02 13:54:27.761322	hoteldecode complete
+2020-04-02 13:58:36.161982	codeK complete
+running time: 3674.0299277305603
+
+2020-04-02 15:28:27.097599
+keyescape error
+2020-04-02 15:41:24.560004	seoulescaperoom complete
+2020-04-02 15:55:18.423059	masterkey complete
+2020-04-02 16:01:30.045032	nextedition complete
+2020-04-02 16:02:00.372489	solvergd complete
+2020-04-02 16:02:45.103131	hoteldecode complete
+2020-04-02 16:04:14.753802	codeK complete
+running time: 2147.6562027931213
+
+2020-04-02 16:28:03.153545
+2020-04-02 16:41:05.335555	keyescape complete
+2020-04-02 16:45:18.482916	seoulescaperoom complete
+2020-04-02 16:58:51.853533	masterkey complete
+2020-04-02 17:05:50.411158	nextedition complete
+2020-04-02 17:07:12.958615	solvergd complete
+2020-04-02 17:08:18.349732	hoteldecode complete
+2020-04-02 17:12:12.163176	codeK complete
+running time: 2649.0096304416656
+
+2020-04-02 17:58:17.423521
+2020-04-02 18:11:09.246482	keyescape complete
+2020-04-02 18:15:01.816249	seoulescaperoom complete
+2020-04-02 18:29:03.202681	masterkey complete
+2020-04-02 18:38:41.996185	nextedition complete
+2020-04-02 18:40:02.842877	solvergd complete
+2020-04-02 18:41:11.470352	hoteldecode complete
+2020-04-02 18:45:21.165920	codeK complete
+running time: 2823.742398262024
+
+2020-04-02 20:28:34.587635
+2020-04-02 20:41:26.322727	keyescape complete
+2020-04-02 20:45:35.880380	seoulescaperoom complete
+2020-04-02 20:59:39.575383	masterkey complete
+2020-04-02 21:05:53.235843	nextedition complete
+2020-04-02 21:06:15.464020	solvergd complete
+2020-04-02 21:06:57.123744	hoteldecode complete
+2020-04-02 21:08:22.061234	codeK complete
+running time: 2387.4735989570618
+
+2020-04-02 23:02:40.890235
+2020-04-02 23:15:23.643133	keyescape complete
+2020-04-02 23:19:14.620379	seoulescaperoom complete
+2020-04-02 23:32:23.459525	masterkey complete
+2020-04-02 23:38:27.031674	nextedition complete
+2020-04-02 23:38:56.176636	solvergd complete
+2020-04-02 23:39:12.236244	hoteldecode complete
+2020-04-02 23:40:34.942606	codeK complete
+running time: 2274.052371740341
+
+2020-04-02 23:48:27.991021
+2020-04-03 00:01:12.227105	keyescape complete
+2020-04-03 00:05:11.974319	seoulescaperoom complete
+2020-04-03 00:18:40.787756	masterkey complete
+2020-04-03 00:24:42.875947	nextedition complete
+2020-04-03 00:25:13.086771	solvergd complete
+2020-04-03 00:25:28.864591	hoteldecode complete
+2020-04-03 00:26:58.461612	codeK complete
+running time: 2310.488755941391
+
+2020-04-03 00:58:55.225598
+2020-04-03 01:12:13.119168	keyescape complete
+2020-04-03 01:16:06.676491	seoulescaperoom complete
+2020-04-03 01:29:34.363066	masterkey complete
+2020-04-03 01:35:40.202624	nextedition complete
+2020-04-03 01:36:09.187366	solvergd complete
+2020-04-03 01:36:25.306180	hoteldecode complete
+2020-04-03 01:37:49.833925	codeK complete
+running time: 2334.6083266735077
+
+2020-04-03 02:17:36.082436
+2020-04-03 02:30:57.968175	keyescape complete
+2020-04-03 02:35:03.910150	seoulescaperoom complete
+2020-04-03 02:48:09.116214	masterkey complete
+2020-04-03 02:54:14.290352	nextedition complete
+2020-04-03 02:54:51.190318	solvergd complete
+2020-04-03 02:55:07.809151	hoteldecode complete
+2020-04-03 02:56:35.209360	codeK complete
+running time: 2339.1269240379333
+
+2020-04-03 04:29:01.045191
+2020-04-03 04:42:19.250987	keyescape complete
+2020-04-03 04:46:18.488190	seoulescaperoom complete
+2020-04-03 04:59:32.167454	masterkey complete
+2020-04-03 05:05:27.999492	nextedition complete
+2020-04-03 05:05:54.720858	solvergd complete
+2020-04-03 05:06:10.084179	hoteldecode complete
+codeK error
+running time: 3144.59459233284
+
+2020-04-03 05:47:38.330895
+2020-04-03 06:00:44.198833	keyescape complete
+2020-04-03 06:04:39.475469	seoulescaperoom complete
+2020-04-03 06:17:57.236146	masterkey complete
+2020-04-03 06:23:58.146810	nextedition complete
+2020-04-03 06:24:22.205779	solvergd complete
+2020-04-03 06:24:37.688502	hoteldecode complete
+2020-04-03 06:25:58.570336	codeK complete
+running time: 2300.2394409179688
+
+2020-04-03 07:28:42.696794
+2020-04-03 07:41:49.418629	keyescape complete
+2020-04-03 07:45:39.348482	seoulescaperoom complete
+2020-04-03 07:58:53.497481	masterkey complete
+2020-04-03 08:04:51.852896	nextedition complete
+2020-04-03 08:05:13.649230	solvergd complete
+2020-04-03 08:05:29.183515	hoteldecode complete
+codeK error
+running time: 3118.9430418014526
+
+2020-04-03 08:58:42.891070
+2020-04-03 09:11:48.917602	keyescape complete
+2020-04-03 09:15:49.106386	seoulescaperoom complete
+2020-04-03 09:29:14.455158	masterkey complete
+2020-04-03 09:35:14.685861	nextedition complete
+2020-04-03 09:35:45.886202	solvergd complete
+2020-04-03 09:36:01.892146	hoteldecode complete
+codeK error
+running time: 2292.6638894081116
+
+2020-04-03 09:58:48.729483
+2020-04-03 10:11:56.515057	keyescape complete
+2020-04-03 10:15:59.199407	seoulescaperoom complete
+2020-04-03 10:30:07.126494	masterkey complete
+2020-04-03 10:36:22.517604	nextedition complete
+2020-04-03 10:36:47.206688	solvergd complete
+2020-04-03 10:37:03.508467	hoteldecode complete
+codeK error
+running time: 3223.741900205612
+
+2020-04-03 11:28:50.914677
+2020-04-03 11:41:59.493437	keyescape complete
+2020-04-03 11:46:13.372564	seoulescaperoom complete
+2020-04-03 12:00:10.808606	masterkey complete
+2020-04-03 12:06:25.722115	nextedition complete
+2020-04-03 12:06:55.408158	solvergd complete
+2020-04-03 12:07:11.746099	hoteldecode complete
+2020-04-03 12:08:42.856953	codeK complete
+running time: 2391.9422755241394
+
+2020-04-03 12:28:45.116694
+2020-04-03 12:41:47.363240	keyescape complete
+2020-04-03 12:45:54.211001	seoulescaperoom complete
+2020-04-03 12:59:54.676606	masterkey complete
+2020-04-03 13:06:09.971407	nextedition complete
+2020-04-03 13:06:40.597223	solvergd complete
+2020-04-03 13:07:03.046146	hoteldecode complete
+2020-04-03 13:08:34.034865	codeK complete
+running time: 2388.918171644211
+
+2020-04-03 13:28:36.637674
+2020-04-03 13:41:36.789111	keyescape complete
+2020-04-03 13:45:46.393640	seoulescaperoom complete
+2020-04-03 14:00:21.460192	masterkey complete
+2020-04-03 14:06:36.984810	nextedition complete
+2020-04-03 14:07:09.467552	solvergd complete
+2020-04-03 14:07:25.707794	hoteldecode complete
+2020-04-03 14:08:58.262800	codeK complete
+running time: 2421.6251258850098
+
+2020-04-03 14:28:24.821624
+2020-04-03 14:41:23.945046	keyescape complete
+2020-04-03 14:45:33.316274	seoulescaperoom complete
+2020-04-03 15:06:36.151528	masterkey complete
+2020-04-03 15:22:17.787965	nextedition complete
+2020-04-03 15:23:33.643940	solvergd complete
+2020-04-03 15:24:35.668588	hoteldecode complete
+2020-04-03 15:27:58.160336	codeK complete
+running time: 3573.3387112617493
+
+2020-04-03 15:57:59.957809
+2020-04-03 16:10:54.585252	keyescape complete
+2020-04-03 16:15:10.591016	seoulescaperoom complete
+masterkey error
+2020-04-03 16:44:19.880138	nextedition complete
+2020-04-03 16:45:34.371902	solvergd complete
+2020-04-03 16:46:22.748004	hoteldecode complete
+2020-04-03 16:49:39.157781	codeK complete
+running time: 3099.1999723911285
+
+2020-04-03 17:28:40.858661
+2020-04-03 17:41:28.953493	keyescape complete
+2020-04-03 17:45:35.219443	seoulescaperoom complete
+2020-04-03 17:59:24.155208	masterkey complete
+2020-04-03 18:10:27.633110	nextedition complete
+2020-04-03 18:11:39.860442	solvergd complete
+2020-04-03 18:12:45.052966	hoteldecode complete
+2020-04-03 18:16:10.577910	codeK complete
+running time: 2849.7192482948303
+
+2020-04-03 18:57:41.052497
+2020-04-03 19:10:24.742402	keyescape complete
+2020-04-03 19:14:23.785988	seoulescaperoom complete
+2020-04-03 19:28:16.207242	masterkey complete
+2020-04-03 19:39:02.801746	nextedition complete
+2020-04-03 19:40:11.551589	solvergd complete
+2020-04-03 19:40:55.669922	hoteldecode complete
+2020-04-03 19:44:03.366039	codeK complete
+running time: 2782.313541650772
+
+2020-04-03 22:29:35.915389
+2020-04-03 22:42:11.560251	keyescape complete
+seoulescaperoom error
+masterkey error
+nextedition error
+2020-04-03 22:51:28.166086	solvergd complete
+2020-04-03 22:51:53.974007	hoteldecode complete
+2020-04-03 22:53:17.842107	codeK complete
+running time: 1421.9267179965973
+
+2020-04-04 00:03:53.443419
+2020-04-04 00:17:04.399289	keyescape complete
+2020-04-04 00:20:52.900876	seoulescaperoom complete
+2020-04-04 00:34:10.121388	masterkey complete
+2020-04-04 00:39:57.205746	nextedition complete
+2020-04-04 00:40:19.158288	solvergd complete
+2020-04-04 00:40:34.062314	hoteldecode complete
+2020-04-04 00:41:54.558048	codeK complete
+running time: 2281.1146290302277
+
+2020-04-04 01:28:48.659129
+2020-04-04 01:41:59.212800	keyescape complete
+2020-04-04 01:45:37.959819	seoulescaperoom complete
+2020-04-04 01:58:52.461624	masterkey complete
+2020-04-04 02:04:44.961880	nextedition complete
+2020-04-04 02:05:14.349890	solvergd complete
+2020-04-04 02:05:29.739493	hoteldecode complete
+codeK error
+running time: 2506.3545978069305
+
+2020-04-04 02:28:37.660993
+2020-04-04 02:41:48.870202	keyescape complete
+2020-04-04 02:45:33.182234	seoulescaperoom complete
+2020-04-04 02:58:36.704568	masterkey complete
+2020-04-04 03:04:27.727264	nextedition complete
+2020-04-04 03:04:53.607619	solvergd complete
+hoteldecode error
+2020-04-04 03:16:17.840050	codeK complete
+running time: 2860.1790573596954
+
+2020-04-04 04:28:47.093493
+2020-04-04 04:41:59.971873	keyescape complete
+2020-04-04 04:45:37.254745	seoulescaperoom complete
+2020-04-04 04:58:25.854210	masterkey complete
+2020-04-04 05:04:03.694898	nextedition complete
+2020-04-04 05:04:29.896082	solvergd complete
+hoteldecode error
+codeK error
+running time: 3673.0003201961517
+
+2020-04-04 06:28:47.911306
+2020-04-04 06:41:58.529293	keyescape complete
+2020-04-04 06:45:35.358094	seoulescaperoom complete
+2020-04-04 06:58:10.481079	masterkey complete
+2020-04-04 07:03:51.320299	nextedition complete
+2020-04-04 07:04:12.397118	solvergd complete
+hoteldecode error
+2020-04-04 07:05:35.725132	codeK complete
+running time: 2207.8138267993927
+
+2020-04-04 07:28:55.320534
+2020-04-04 07:42:06.111256	keyescape complete
+2020-04-04 07:45:55.122116	seoulescaperoom complete
+2020-04-04 07:58:49.694545	masterkey complete
+nextedition error
+2020-04-04 08:11:07.445858	solvergd complete
+2020-04-04 08:11:22.682066	hoteldecode complete
+codeK error
+running time: 2590.362113714218
+
+2020-04-04 08:58:48.839272
+2020-04-04 09:12:00.796715	keyescape complete
+2020-04-04 09:15:40.766780	seoulescaperoom complete
+masterkey error
+nextedition error
+2020-04-04 09:52:09.579481	solvergd complete
+hoteldecode error
+codeK error
+running time: 3224.486974954605
+
+2020-04-04 10:28:38.537609
+2020-04-04 10:41:47.904728	keyescape complete
+seoulescaperoom error
+masterkey error
+nextedition error
+solvergd error
+hoteldecode error
+codeK error
+running time: 2643.7476069927216
+
+2020-04-04 11:28:21.831305
+2020-04-04 11:41:28.236912	keyescape complete
+2020-04-04 11:45:12.333576	seoulescaperoom complete
+masterkey error
+nextedition error
+2020-04-04 12:02:05.468340	solvergd complete
+hoteldecode error
+2020-04-04 12:08:35.659445	codeK complete
+running time: 2413.8281400203705
+
+2020-04-04 12:29:08.096043
+2020-04-04 12:42:11.524798	keyescape complete
+2020-04-04 12:45:53.867264	seoulescaperoom complete
+masterkey error
+nextedition error
+2020-04-04 12:54:02.703456	solvergd complete
+hoteldecode error
+2020-04-04 12:55:31.710030	codeK complete
+running time: 1583.6139872074127
+
+2020-04-04 14:28:03.516784
+2020-04-04 14:41:03.202417	keyescape complete
+seoulescaperoom error
+masterkey error
+nextedition error
+solvergd error
+hoteldecode error
+codeK error
+running time: 2133.847113609314
+
+2020-04-08 02:58:27.744220
+2020-04-08 03:11:35.486322	keyescape complete
+seoulescaperoom error
+masterkey error
+nextedition error
+solvergd error
+hoteldecode error
+codeK error
+running time: 859.3844163417816
+
+2020-04-08 03:28:39.760049
+keyescape error
+seoulescaperoom error
+masterkey error
+nextedition error
+solvergd error
+hoteldecode error
+codeK error
+running time: 404.36414909362793
+
